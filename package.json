@@ -1,0 +1,27 @@
+{
+  "name": "back-end-hw-2-express-crash-course-melkadze",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staten-island-tech/back-end-hw-2-express-crash-course-melkadze.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/staten-island-tech/back-end-hw-2-express-crash-course-melkadze/issues"
+  },
+  "homepage": "https://github.com/staten-island-tech/back-end-hw-2-express-crash-course-melkadze#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "moment": "^2.24.0",
+    "nodemon": "^2.0.2",
+    "uuid": "^3.3.3"
+  }
+}
